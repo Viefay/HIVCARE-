@@ -4,6 +4,7 @@ HIVCare+ adalah sistem manajemen kesehatan yang dirancang untuk membantu peningk
 Aplikasi ini dikembangkan dengan tujuan memberikan solusi digital yang lebih terstruktur, mudah diakses, dan aman bagi tenaga medis maupun pasien.
 
 ✨ **Fitur Utama**
+
 📊 Manajemen Data Pasien – menyimpan, mengubah, dan menghapus informasi pasien dengan aman.
 
 🧾 Riwayat Perawatan – mencatat dan menampilkan riwayat terapi atau pengobatan pasien.
